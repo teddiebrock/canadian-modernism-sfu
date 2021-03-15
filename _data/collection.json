@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Dorothy Livesay, P.K. Page @ SFU" ] },
+    "summary": { "en": [ "Canadian modernism recordings" ] },
+    "items": [
+    ]
+}
